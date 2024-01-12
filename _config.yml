@@ -1,5 +1,7 @@
 title: Phillip E Wilson Jr.
 logo: /assets/img/profile2.jpg
+description: Bio
+show_download: True 
 theme: jekyll-theme-minimal
 #logo:
 #description: text below image
