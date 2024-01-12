@@ -1,5 +1,6 @@
 title: Phillip E Wilson Jr.
+theme: jekyll-theme-mininmal
 #logo:
 #description: text below image
-#show_download: False
-theme:jekyll-theme-mininmal
+#show_download: False 
+#theme :jekyll-theme-mininmal
