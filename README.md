@@ -1,1 +1,4 @@
-# philewj.github.io
+# Data Scientist
+
+### Education
+Bachelor's of Science in Computer science
