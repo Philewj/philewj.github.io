@@ -8,7 +8,7 @@ Bachelor's of Science in Computer Science Degree(December 2023)
 
 ### Goals
 * Acquire an entry level career position within the domain of Computer Science
-* Transtion from a 12+ year career as Mail Carrier with the United States Postal Service
+* Transition from a 12+ year career as Mail Carrier with the United States Postal Service
 
 ### Resume
 
