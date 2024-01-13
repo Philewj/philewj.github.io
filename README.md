@@ -10,7 +10,7 @@ Bachelor's of Science in Computer Science Degree(December 2023)
 * Acquire an entry level career position within the domain of Computer Science
 * Transition from a 12+ year career as Mail Carrier with the United States Postal Service
 
-### Resume
+### Work Experience
 [Resume](https://philewj.github.io/assets/Phillip-Wilson-Resume-v2-Jan-2024.pdf)
 ### Projects
 Data Science Projects are forthcoming
