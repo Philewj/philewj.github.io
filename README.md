@@ -6,6 +6,7 @@ Phillip is from Richmond, Virginia. He is a recent graduate from Old Dominion Un
 Bachelor's of Science in Computer Science Degree(December 2023)
 * Graduated with Cum Laude Honors Distinction
 * Minor in Cybersecurity
+
 ### Technical Skills
 * C++
 * Python
