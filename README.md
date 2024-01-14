@@ -12,6 +12,7 @@ Bachelor's of Science in Computer Science Degree(December 2023)
 * SQL
 * Django
 * Linux
+
 ### Goals
 * Acquire an entry level career position within the domain of Computer Science
 * Transition from a 12+ year career as a Mail Carrier with the United States Postal Service
