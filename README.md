@@ -19,7 +19,7 @@ Bachelor's of Science in Computer Science Degree(December 2023)
 * Transition from a 12+ year career as a Mail Carrier with the United States Postal Service
 
 ### Work Experience
-[Resume](https://philewj.github.io/assets/Phillip-Wilson-Resume-v2-Jan-2024.pdf)
+[Resume](https://philewj.github.io/assets/Phillip_Wilson_Resume2_May-2024.pdf)
 ### Projects
 Data Science Projects are forthcoming
 
