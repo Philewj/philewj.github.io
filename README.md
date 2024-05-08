@@ -22,8 +22,8 @@ Bachelor's of Science in Computer Science Degree(December 2023)
 [Resume](https://philewj.github.io/assets/Phillip_Wilson_Resume2_May-2024.pdf)
 ### Projects
 #### Old Dominion University
-* Cs 620 : Introduction to Data Science and Analytics :
-* Cs 624: Data Analytics and Big Data : Final Project [TensorFlow](https://colab.research.google.com/drive/1M9FlHswR6hzqGWMrLyRNZy2vGfrp_s8c?usp=sharing)
+* Cs 620 : Introduction to Data Science and Analytics :  Final Project [Analyzing Vehicle Recalls](https://colab.research.google.com/drive/1Jl9an2YjIbR9_999cmjBbqVKSRaG-8AZ?usp=sharing)  
+* Cs 624: Data Analytics and Big Data :                  Final Project [TensorFlow](https://colab.research.google.com/drive/1M9FlHswR6hzqGWMrLyRNZy2vGfrp_s8c?usp=sharing)
 
 
 
