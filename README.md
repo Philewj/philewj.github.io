@@ -9,7 +9,7 @@ Bachelor's of Science in Computer Science Degree(December 2023)
 
 Master's of Science in Computer Science Degree(May 2025)
 * Graduated with 3.65 GPA
-* 
+  
 ### Technical Skills
 * C++
 * Python
